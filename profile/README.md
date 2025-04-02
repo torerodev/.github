@@ -1,6 +1,6 @@
 ![Welcome!](./img/welcome.gif)
 
-### torero
+### About
 With all the automation tools in use for building and managing infrastructure, trying to keep operational control is daunting. Meet torero, the _automation gateway_ that unifies and streamlines your automation ecosystem. By focusing in on a consistent, repeatable execution layer, _torero_ gives _operations_ the ability to maintain uniform control regardless of the language, framework, or application used to push changes to _infrastructure_.
 
 > [!TIP]
